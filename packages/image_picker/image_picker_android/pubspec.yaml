@@ -20,14 +20,14 @@ flutter:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_plugin_android_lifecycle: ^2.0.1
+  flutter_plugin_android_lifecycle: ^2.0.19
   image_picker_platform_interface: ^2.10.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   mockito: 5.4.4
-  pigeon: ^17.0.0
+  pigeon: ^19.0.0
 
 topics:
   - camera
